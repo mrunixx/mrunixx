@@ -1,13 +1,17 @@
-<h2 align="center">hi 👋, i'm manan</h2>
-<h3 align="center">a passionate developer studying at unsw (computer science).</h3>
+<h2 align="left">hi 👋, i'm manan</h2>
 
-## about me
+![mrunixd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunixd&theme=dark&hide_border=true)
+
+### about me
 i'm a second year comp sci student looking to broaden my skills and explore various industries in tech. currently i have been very interested in android development and producing usable android applications for an audience. 
 
-## current project
+### current project
 i’m currently working on [ezTrack](www.github.com/mrunixd/ezTrack). an android application in Kotlin which provides a minimalistic environment for individuals to track their progress and goals. this application is inspired by Strong, a very well known gym progress tracker. as some of the more advanced features are paid, i am creating a more barebones application which caters exactly to what most individual would like at no cost. 
 
-## reach me
+### hobbies & interests
+i love configuring my own workspace for productivity, and have delved into a lot of shell scripting and different linux distrobutions. i also love playing some badminton at various social comps around sydney.
+
+### reach me
 email: z5481212@ad.unsw.edu.au
 <br>
 linkedin: [manan jaiswal](https://www.linkedin.com/in/manan-jaiswal-051b03235/)
