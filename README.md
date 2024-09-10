@@ -9,7 +9,7 @@ I'm a second year comp sci student looking to broaden my skills and explore vari
 I’m currently working on [ezTrack](https://www.github.com/mrunixd/ezTrack). An android application in Kotlin which provides a minimalistic environment for individuals to track their progress and goals. This application is inspired by Strong, a very well known gym progress tracker. As some of the more advanced features are paid, I am creating a more barebones application which caters exactly to what most individual would like at no cost. 
 
 ## hobbies & interests
-I love configuring my own workspace for productivity, and have delved into a lot of shell scripting and different linux distrobutions. I also love playing some badminton at various social comps around sydney.
+I love configuring my own workspace for productivity, and have delved into a lot of shell scripting and different linux distrobutions. I also love playing some badminton or volleyball at various social comps around sydney.
 
 ## reach me
 email: z5481212@ad.unsw.edu.au
