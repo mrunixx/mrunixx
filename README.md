@@ -3,10 +3,12 @@
 ![mrunixx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunixx&theme=dark&hide_border=true)
 
 ## about me
-I'm a second year comp sci student looking to broaden my skills and explore various industries in tech. Currently, I have been very interested in android development and producing usable android applications for an audience. 
+I'm a second year comp sci student looking to broaden my skills and explore various industries in tech. Currently, I have been very interested in producing usable web applications which provide some value or assistance
+anyone in anyway. 
 
 ## current project
-I’m currently working on [ezTrack](https://www.github.com/mrunixd/ezTrack). An android application in Kotlin which provides a minimalistic environment for individuals to track their progress and goals. This application is inspired by Strong, a very well known gym progress tracker. As some of the more advanced features are paid, I am creating a more barebones application which caters exactly to what most individual would like at no cost. 
+I’m currently working on [notcookedyet](https://www.notcookedyet.vercel.app). notcookedyet is a web application aimed to assist graduates and university students succeed and acheive their employment goals. I aim to create a place
+where students can create a resume with the assistance they need so that they have a bit less to concentrate on during this competitive time of their life.
 
 ## hobbies & interests
 I love configuring my own workspace for productivity, and have delved into a lot of shell scripting and different linux distrobutions. I also love playing some badminton or volleyball at various social comps around sydney.
