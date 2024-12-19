@@ -1,6 +1,6 @@
 # hi 👋, i'm manan
 
-![mrunixd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunixd&theme=dark&hide_border=true)
+![mrunixx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunixx&theme=dark&hide_border=true)
 
 ## about me
 I'm a second year comp sci student looking to broaden my skills and explore various industries in tech. Currently, I have been very interested in android development and producing usable android applications for an audience. 
