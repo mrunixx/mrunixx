@@ -7,7 +7,7 @@ I'm a second year comp sci student looking to broaden my skills and explore vari
 anyone in anyway. 
 
 ## current project
-I’m currently working on [notcookedyet](https://www.notcookedyet.vercel.app). notcookedyet is a web application aimed to assist graduates and university students succeed and acheive their employment goals. I aim to create a place
+I’m currently working on [notcookedyet](https://notcookedyet.vercel.app). notcookedyet is a web application aimed to assist graduates and university students succeed and acheive their employment goals. I aim to create a place
 where students can create a resume with the assistance they need so that they have a bit less to concentrate on during this competitive time of their life.
 
 ## hobbies & interests
