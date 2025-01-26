@@ -1,7 +1,5 @@
 # hi 👋, i'm manan
 
-![mrunixx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunixx&theme=dark&hide_border=true)
-
 ## about me
 I'm a second year comp sci student looking to broaden my skills and explore various industries in tech. Currently, I have been very interested in producing usable web applications which provide some value or assistance
 anyone in anyway. 
