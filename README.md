@@ -1,6 +1,6 @@
 # hi 👋, i'm manan
 
-I'm a second year comp sci student looking to broaden my skills and explore various industries in tech. Currently, I have been very interested in producing usable web applications which provide some value or assistance
+I'm a third year comp sci student looking to broaden my skills and explore various industries in tech. Currently, I have been very interested in producing usable web applications which provide some value or assistance
 anyone in anyway. 
 
 ## current project
